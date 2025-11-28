@@ -1,0 +1,16 @@
+{
+  "name": "TURBO",
+  "symbol": "TURBO",
+  "description": "A fun, fast and energetic Solana memecoin inspired by the TURBO frog mascot.",
+  "image": "https://raw.githubusercontent.com/BTCro12/TURBO/refs/heads/main/file_000000005cd071f480bcf15ff905c607.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ]
+}
